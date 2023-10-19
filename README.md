@@ -1,5 +1,5 @@
-# README.md
+# H3.2 Programming Lab
 
-Something about us !!!!
+# 1 vài điều về chúng tôi !!!!
 
-# About our members
+## Đội ngũ:
